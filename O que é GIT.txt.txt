@@ -1,0 +1,8 @@
+-O GIT é um sistema de controle de verção ou vercionamento de códigos, uma ferramenta eficaz para os programadores.
+
+-Ele é utilizado para gerenciar códigos/documentos de texto, facilitando o desenvolvimento de projetos... Também ajuda 
+no multiplo gerenciamento, ou sejá, em uma equipe, cada um pode desenvolver o mesmo projeto sem atrapalhar o projeto do
+colega, assim acelerando o desenvolvimento dos programas nas empresas.
+
+-O GIT não é a unica ferramenta para gerenciar e vercionar códigos, mas, ele é o mais procurado e utilizado no mercado atualmente,
+pelas empresas e pelos programadores.
